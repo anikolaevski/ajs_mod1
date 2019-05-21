@@ -1,2 +1,2 @@
 // import './src/index.html';
-import './src/css/style.css';
+import './css/style.css';
